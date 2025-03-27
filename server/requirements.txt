@@ -1,0 +1,12 @@
+Flask
+numpy 
+pandas
+scikit-learn
+ipykernel
+matplotlib
+seaborn
+flask_cors 
+Flask-SQLAlchemy
+werkzeug
+psycopg2
+PyJWT
